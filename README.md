@@ -134,7 +134,7 @@ Welcome to the Python learning journey! Below is an outline of assignments and p
 To clone this repository, you can use the following command in your terminal or command prompt:
 
 ```bash
-git clone https://github.com/YourUsername/Project_4_Assignments.git
+git clone https://github.com/Aleeze123/Project_4_Assignments.git
 ````
 
 Happy coding! 💻🚀
